@@ -1,69 +1,90 @@
-::placeholder{
-    text-align: center;
-    font-size: 14px;
-    color: gray;
-    background-position: 40%;
-    background-size: 6%;
-    background: url('../assets/search-solid.svg');
-    background-repeat: no-repeat;
-  }
-  
-  input.empty {
-      font-family: FontAwesome;
-      font-style: normal;
-      font-weight: normal;
-      text-decoration: inherit;
-      background-color: #FAFAFA;
-  }
-  
-  .postuserfont {
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-size: 15px;
-    color: black;
-  }
-  
-  
-  .storyphoto {
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-    border: 2px solid rgb(238, 39, 82);
-    margin-right: 7px;
-  }
-  
-  .storytext {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-size: 12px;
-    color: black;
-  }
-  
-  .rightpanellinks {
-    text-decoration: none;
-    color: lightgrey;
-  }
-  
-  .rightpanellinks:hover {
-    text-decoration: none;
-    color: lightgrey;
-  }
+::placeholder {
+  text-align: center;
+  font-size: 14px;
+  color: gray;
+  background-position: 40%;
+  background-size: 6%;
+  background: url('../assets/search-solid.svg');
+  background-repeat: no-repeat;
+}
 
+input.empty {
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: inherit;
+  background-color: #FAFAFA;
+}
+
+.postuserfont {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  color: black;
+}
+
+
+.storyphoto {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 2px solid rgb(238, 39, 82);
+  margin-right: 7px;
+}
+
+.storytext {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 12px;
+  color: black;
+}
+
+.rightpanellinks {
+  text-decoration: none;
+  color: lightgrey;
+}
+
+.rightpanellinks:hover {
+  text-decoration: none;
+  color: lightgrey;
+}
+
+.middlearea {
+  max-height: 200px !important;
+
+}
+
+.fa-ellipsis-h {
+  float: right;
+  margin: 10px;
+}
+
+.card-footer {
+  border: none;
+}
+
+.list-group {
+  border: none !important;
+}
+
+.rightpanel {
+  border: none !important;
+  background-color: white !important;
+}
+
+
+@media(max-width:575px) {
+  .navbar-brand {
+    margin-left: 120% !important;
+    padding-bottom: 1.5rem;
+
+  }
+  .navbar-toggler{
+    display:none;
+  }
   .middlearea{
-    max-height: 200px !important;
- 
- }
- .fa-ellipsis-h{
-   float: right;
-   margin: 10px;
- }
- .card-footer{
-   border: none;
- }
- .list-group {
-   border: none !important;
- }
- .rightpanel{
-   border:none !important;
-   background-color: white !important;
- }
+    margin-top:-8% !important;
+  } 
+  .card-body a{
+    margin-right: 8px;
+  }
 
-
+}

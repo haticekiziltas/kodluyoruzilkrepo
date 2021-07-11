@@ -1,6 +1,48 @@
-  
+@font-face {
+    font-family: 'Segoe UI Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Segoe UI Regular'), url('Segoe UI.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Segoe UI Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Segoe UI Italic'), url('Segoe UI Italic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Segoe UI Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Segoe UI Bold'), url('Segoe UI Bold.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Segoe UI Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Segoe UI Bold Italic'), url('Segoe UI Bold Italic.woff') format('woff');
+    }
+    @font-face {
+        font-family: 'Segoe UI Light';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Segoe UI Light'), url('segolight.woff') format('woff');
+        }
+        @font-face {
+            font-family: 'Segoe UI SemiBold';
+            font-style: normal;
+            font-weight: normal;
+            src: local('Segoe UI SemiBold'), url('segosemi.woff') format('woff');
+            }
 body {
-    font-family: 'PT Serif', serif;
+    font-family: 'Segoe UI Regular';
+    
 }
 
 .bg-blue {
