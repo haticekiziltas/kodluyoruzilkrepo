@@ -7,4 +7,4 @@
 
 # Görünüm:
 
-![ödev](https://imgur.com/xxKTLQ6.png)
+![ödev](https://imgur.com/xxKTLQ6.png) 

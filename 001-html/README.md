@@ -7,4 +7,4 @@
  ## Çalışmalar:
 - Web sayfası Oluşturma
 - Google 1998 tasarımı(sadece html ile)
-- Basit kişisel web sayfası oluşturma
+- Basit kişisel web sayfası oluşturma 
