@@ -4,4 +4,4 @@
 ## İnceleyebilirsiniz
  - [buraya](https://haticekiziltas-medium-clone.netlify.app/) tıklayarak inceleyebilirsiniz.
 
-![medium](https://imgur.com/VbLChRE.gif)
+![medium](https://im5.ezgif.com/tmp/ezgif-5-1cf4da668112.gif)
