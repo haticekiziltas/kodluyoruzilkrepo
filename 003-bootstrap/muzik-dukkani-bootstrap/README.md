@@ -1,4 +1,4 @@
 # Müzik Dükkanı
 - Daha öncesinde CSS kullanarak yaptığım Müzik Dükkanı sitesini bu kez bootstrap kullanarak tasarladım.
 
-![müzikdükkanı](https://imgur.com/YWYlz8E.gif)
+![müzikdükkanı](http://g.recordit.co/RnamlzMw6j.gif)
