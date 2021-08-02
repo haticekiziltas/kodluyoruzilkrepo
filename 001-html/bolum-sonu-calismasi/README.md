@@ -4,5 +4,5 @@
 
  # Görünüm :
 
-  ![img](https://imgur.com/B93wnvN.png)
+  ![img](https://imgur.com/B93wnvN.png) 
 

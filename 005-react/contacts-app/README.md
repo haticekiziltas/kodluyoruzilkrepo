@@ -1,5 +1,6 @@
-# Contacts Çalışması
-- Öğrendiklerimizi pekiştirmek için yaptığımız mini çalışma.
+# Contacts App Çalışması
+- Öğrendiklerimizi pekiştirmek için yaptığımız mini rehber  uygulaması.
+- Denemek için [tıklayınız](https://haticekiziltas-contactsapp.netlify.app/)
 
 # Getting Started with Create React App
 

@@ -1,3 +1,4 @@
-# [Kodluyoruz Frontend 101](https://github.com/hakanyalcinkaya/kodluyoruz-frontend-101-egitimi) Eğitimi Bootstrap Bölümü İkinci Ödev
+# İnsatagram Clone
+- Bu ödevde bootstrap kullanarak instagram clone'u oluşturdum.
 
-Bu ödevde Bootstrap kullanarak Instagram clone'u oluşturdum.
+![gif](http://g.recordit.co/IPhrqvNKpH.gif)

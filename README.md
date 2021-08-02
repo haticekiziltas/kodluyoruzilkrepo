@@ -8,7 +8,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) & [Patika](https://patika.dev) tara
 * [CSS](https://github.com/haticekiziltas/kodluyoruzilkrepo/tree/main/002-css)
 * [Bootstrap](https://github.com/haticekiziltas/kodluyoruzilkrepo/tree/main/003-bootstrap)
 * [JavaScript](https://github.com/haticekiziltas/kodluyoruzilkrepo/tree/main/004-javaScript)
-* [ReactJs](#)
+* [ReactJs](https://github.com/haticekiziltas/kodluyoruzilkrepo/tree/main/005-react)
 
 ## Eğitim Notları & Eğitmenler :
 - [Hakan Yalçınkaya(Git/HTML/CSS/BOOTRAP)](https://github.com/hakanyalcinkaya/kodluyoruz-frontend-101-egitimi)
