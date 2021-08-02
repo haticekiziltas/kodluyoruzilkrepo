@@ -8,4 +8,4 @@
 
  ## Görünüm
 
-  ![Html](https://imgur.com/pugDzRy.png) 
+  ![Html](https://imgur.com/pugDzRy.png)

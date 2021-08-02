@@ -4,4 +4,4 @@
 
 # Görünüm :
 
- ![google](https://imgur.com/p7f4dDU.png) 
+ ![google](https://imgur.com/p7f4dDU.png)
