@@ -1,4 +1,4 @@
 # Linkedin Clone
 - Bu ödevde bootstrap kullanarak linkedin clone oluşturdum.
 
-![linkedin](http://g.recordit.co/8Qq6GYe9lV.gif)
+![linkedin](https://imgur.com/PegJdey.gif)

@@ -1,6 +1,4 @@
-# Bootstrap Projeleri
-- Medium Clone (canlıda incelenebilir)
-- Instagram Clone
-- Linkedin Clone
-- CSS'te Tasarladığımız müzik dükkanı sayfasını bootstrap kullanarak yeniden yaptım.
+# Müzik Dükkanı
+- Daha öncesinde CSS kullanarak yaptığım Müzik Dükkanı sitesini bu kez bootstrap kullanarak tasarladım.
 
+![müzikdükkanı](https://imgur.com/YWYlz8E.gif)
