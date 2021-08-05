@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+}
