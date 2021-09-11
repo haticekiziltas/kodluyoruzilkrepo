@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.kedyx {
+  padding: 0.5rem 1rem;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: all 1s;
+}
+
+.primary {
+  background-color: #085cab;
+  color: white;
+}
+.primary:hover {
+  opacity: 0.8;
+}
+
+.default {
+  background-color: white;
+  border: 1px solid lightgray;
+}
+.default:hover {
+  color: #085cab;
+  border: 1px solid #085cab;
+  transition: all 1s;
+}
+
+.dashed {
+  background-color: white;
+  border: 1px dashed lightgray;
+}
+.dashed:hover {
+  color: #085cab;
+  border: 1px dashed #085cab;
+  transition: all 1s;
+}
+
+.text {
+  background-color: transparent;
+}
+.text:hover {
+  background-color: rgba(222, 222, 222, 0.4);
+  transition: all 1s;
+}
+
+.link {
+  color: #085cab;
+  background-color: transparent;
+}
+.link:hover {
+  opacity: 0.7;
+  transition: all 1s;
+ 
+}
